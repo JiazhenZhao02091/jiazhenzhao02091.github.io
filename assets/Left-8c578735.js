@@ -1,1 +1,0 @@
-import{aR as e,a3 as o}from"./index-e2fda41e.js";const t=e("left",!0,(function(e){return o("svg",{width:e.size,height:e.size,viewBox:"0 0 48 48",fill:"none"},[o("path",{d:"M31 36L19 24L31 12",stroke:e.colors[0],"stroke-width":e.strokeWidth,"stroke-linecap":e.strokeLinecap,"stroke-linejoin":e.strokeLinejoin},null)])}));export{t as L};
